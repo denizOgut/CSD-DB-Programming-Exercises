@@ -1,7 +1,11 @@
 # CSD SQL PRACTICES
 
-### csd_bank_appdb_diagram
-![csd_bankappdb_diagram](/csd_bankappdb_diagram.png)
+### BANKAPPDB DIAGRAM
+
+![csd_bankappdb_diagram](C:\Users\Deniz\Desktop\CSDDBProgrammingExercises\diagrams\csd_bankappdb_diagram.png)
+### GAMEDB DIAGRAM
+![csd_bankappdb_diagram](C:\Users\Deniz\Desktop\CSDDBProgrammingExercises\diagrams\csd_gamedb_diagram.png)
+
 
 
 
