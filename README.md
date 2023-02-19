@@ -6,6 +6,10 @@
 ### GAMEDB DIAGRAM
 ![csd_bankappdb_diagram](csd_gamedb_diagram.png)
 
+### SCHOOL DIAGRAM
+
+![csd_school_db_diagram](csd_school_db_diagram.png)
+
 
 
 
