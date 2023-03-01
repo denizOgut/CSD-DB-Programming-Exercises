@@ -1,4 +1,8 @@
+
+
 # CSD SQL PRACTICES
+
+Bu Repo [Csystem.org](https://csystem.org) tarafından verilen **DBProgramming-Dec-2022** kursuna ait alıştırma sorularını içermektedir.
 
 ### BANKAPPDB DIAGRAM
 
@@ -9,15 +13,6 @@
 ### SCHOOL DIAGRAM
 
 ![csd_school_db_diagram](csd_school_db_diagram.png)
-
-
-
-
-
-
-
-
-
 
 
 
